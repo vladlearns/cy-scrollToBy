@@ -1,5 +1,5 @@
 {
-  "name": "cy-scrolltoby",
+  "name": "@vladlearns/cy-scrolltoby",
   "version": "1.0.0",
   "description": "Cypress custom command \"cy.scrollToBy\" for iterative scrolling in e2e tests. Scroll to a place on the page by some distance",
   "main": "index.js",
@@ -36,5 +36,6 @@
   "bugs": {
     "url": "https://github.com/vladlearns/cy-scrollToBy/issues"
   },
-  "homepage": "https://github.com/vladlearns/cy-scrollToBy#readme"
+  "homepage": "https://github.com/vladlearns/cy-scrollToBy#readme",
+  "dependencies": {}
 }

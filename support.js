@@ -26,7 +26,7 @@
         if (direction ==="bottom") window.scrollTo(0, scrollBy)
   
         if (scrolls < frequency) {
-          scrolls += 1;
+          scrolls ++;
           scroll();
         }
   
