@@ -1,7 +1,7 @@
 {
   "name": "cy-scrolltoby",
   "version": "1.0.0",
-  "description": "Scroll to a place on the page by some distance",
+  "description": "Cypress custom command \"cy.scrollToBy\" for iterative scrolling in e2e tests. Scroll to a place on the page by some distance",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
