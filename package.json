@@ -1,0 +1,40 @@
+{
+  "name": "cy-scrolltoby",
+  "version": "1.0.0",
+  "description": "Scroll to a place on the page by some distance",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "support.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladlearns/cy-scrollToBy.git"
+  },
+  "keywords": [
+    "cypress",
+    "cy",
+    "auto-scrolling",
+    "cy-scrolltoby"
+  ],
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  },
+  "peerDependencies": {
+    "cypress": ">=3"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Vladyslav Tkachenko <vladlearns@gmail.com> (vladlearns)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladlearns/cy-scrollToBy/issues"
+  },
+  "homepage": "https://github.com/vladlearns/cy-scrollToBy#readme"
+}
