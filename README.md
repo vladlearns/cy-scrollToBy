@@ -6,7 +6,7 @@
 
 ``` javascript
 cy.scrollToBy();
-cy.scrollToBy({ direction = "bottom", frequency = 200, interval = 30, timeout = 50000 });
+cy.scrollToBy({ direction : "bottom", frequency : 200, interval : 30, timeout : 50000 });
 ```
 
 ## Install
